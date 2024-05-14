@@ -34,7 +34,3 @@ To run the game on your iOS device:
 ## Author
 
 - **Metehan Veliashvili** - [GitHub Profile](https://github.com/Veliashvilii)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
